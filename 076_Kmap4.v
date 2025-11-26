@@ -12,6 +12,6 @@ module top_module(
       			((~a)&b&c&d)|
         		(a&(~b)&c&d)|
                 (a&b&(~c)&d)|
-        (a&b&c&(~d));
+				(a&b&c&(~d));
 
 endmodule
